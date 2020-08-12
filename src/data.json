@@ -1,0 +1,2327 @@
+{
+    "1": {
+        "geoCoord": {
+            "lat": 46.953995,
+            "lng": 15.366717
+        },
+        "id": 1,
+        "category": 2,
+
+        "title": "Winkelhof",
+        "description": "",
+        "openingHours": "0-24h",
+
+        "contents": [
+            "Eis",
+            "Fleisch",
+            "Milch",
+            "Essig",
+            "Kürbiskernöl",
+            "Alkohol",
+            "Joghurt",
+            "Würste",
+            "Säfte",
+            "Aufstriche",
+            "Käse",
+            "Eier"
+        ],
+
+        "payment": [
+            "Bankomat",
+            "Münzen",
+            "Geldscheine"
+        ],
+
+        "location": {
+            "street": "Liebochstraße 2",
+            "zip": 8143,
+            "city": "Dobl",
+            "description": "Straßenseitig neben dem Garagengebäude"
+        },
+
+        "images": [
+            {"url": "001_winkelhof_01.jpg", "title": "-"},
+            {"url": "001_winkelhof_02.jpg", "title": "-"},
+            {"url": "001_winkelhof_03.jpg", "title": "-"},
+            {"url": "001_winkelhof_04.jpg", "title": "-"},
+            {"url": "001_winkelhof_05.jpg", "title": "-"}
+        ]
+    },
+
+    "2": {
+        "geoCoord": {
+            "lat": 47.029745,
+            "lng": 15.501685
+        },
+        "id": 2,
+        "category": 2,
+        "title": "Automat Familie Lep - Raaba",
+        "openingHours": "0-24h",
+        "location": {
+            "street": "Mühlenstraße 26",
+            "zip": 8074,
+            "city": "Raaba",
+            "description": "An der Kreuzung Mühlenstraße, Höhenstraße"
+        },
+
+        "contents": [
+            "Kürbiskernöl",
+            "Alkohol",
+            "Eier",
+            "Joghurt",
+            "Topfen"
+        ],
+
+        "payment": [
+            "Münzen",
+            "Geldscheine"
+        ],
+
+        "images": [
+            {"url": "002_lep_raaba_01.jpg", "title": "-"}
+        ]
+    },
+
+    "3": {
+        "geoCoord": {
+            "lat": 47.185795,
+            "lng": 15.486035
+        },
+        "id": 3,
+        "category": 2,
+        "title": "Schöckl Talstation",
+        "openingHours": "0-24h",
+        "location": {
+            "street": "Schöcklstraße 23",
+            "zip": 8061,
+            "city": "St. Radegund bei Graz",
+            "description": "Neben dem Eingang der Talstation"
+        },
+
+        "contents": [
+            "Eier",
+            "Alkohol",
+            "Nudeln"
+        ],
+
+        "contact": {
+            "web": "https://hofladen-schoeckl.at/"
+        },
+
+        "images": [
+            {"url": "003_schoeckl_01.jpg", "title": "-"}
+        ]
+    },
+    "4": {
+        "geoCoord": {
+            "lat": 47.015195,
+            "lng": 15.502174
+        },
+        "id": 4,
+        "category": 2,
+        "title": "Familie Riedl",
+        "openingHours": "0-24h",
+        "location": {
+            "street": "Hauptstraße 46",
+            "zip": 8071,
+            "city": "Grambach",
+            "description": "In einem kleinem Raum neben dem Stall"
+        },
+
+        "contents": [
+            "Eier",
+            "Milch",
+            "Topfen",
+            "Joghurt"
+        ],
+
+        "payment": [
+            "Münzen",
+            "Geldscheine",
+            "Wechselgeld möglich"
+        ]
+    },
+    "5": {
+        "geoCoord": {
+            "lat": 47.093552,
+            "lng": 15.563406
+        },
+        "id": 5,
+        "category": 2,
+        "title": "Schöninger Obst",
+        "openingHours": "0-24h",
+        "location": {
+            "street": "Hönigtaler Straße 26",
+            "zip": 8301,
+            "city": "Hönigtal",
+            "description": "An der Bundesstraße im Innenhof"
+        },
+
+        "contents": [
+            "Obst",
+            "Sirup",
+            "Fruchtnektar"
+        ],
+
+        "payment": [
+            "Münzen",
+            "Geldscheine"
+        ],
+
+        "contact": {
+            "web": "http://schoeninger.kainbach.info"
+        },
+
+        "images": [
+            {"url": "005_schoeninger_01.jpg", "title": "-"},
+            {"url": "005_schoeninger_02.jpg", "title": "-"},
+            {"url": "005_schoeninger_03.jpg", "title": "-"}
+        ]
+    },
+
+    "6": {
+        "geoCoord": {
+            "lat": 47.125481,
+            "lng": 15.505264
+        },
+        "id": 6,
+        "category": 2,
+        "title": "Schafmandl Honig",
+        "openingHours": "0-24h",
+        "contact": {
+            "web": "https://www.schafmandl.at"
+        },
+        "location": {
+            "street": "Langeggerweg 51",
+            "zip": 8044,
+            "city": "Graz",
+            "description": "Im Innenhof, in einem Holzregal"
+        },
+
+        "contents": [
+            "Honig"
+        ]
+    },
+    "7": {
+        "geoCoord": {
+            "lat": 47.073348,
+            "lng": 15.484912
+        },
+        "id": 7,
+        "category": 2,
+        "title": "Eierautomat Greiml",
+        "openingHours": "0-24h",
+        "contact": {
+            "web": "http://www.biohof-greiml.at"
+        },
+        "location": {
+            "street": "Rudolfstraße 123",
+            "zip": 8010,
+            "city": "Graz",
+            "description": "Direkt an der Straße"
+        },
+
+        "contents": [
+            "Eier"
+        ]
+    },
+
+    "8": {
+        "geoCoord": {
+            "lat": 47.043906,
+            "lng": 15.519688
+        },
+        "id": 8,
+        "category": 2,
+        "title": "Eierautomat Maier",
+        "openingHours": "0-24h",
+        "contact": {
+            "web": "https://maiereier.jimdofree.com"
+        },
+        "location": {
+            "street": "Harter Süd Straße 2",
+            "zip": 8075,
+            "city": "Hart bei Graz",
+            "description": "Neben der Apotheke"
+        },
+
+        "contents": [
+            "Eier"
+        ]
+    },
+    "9": {
+        "geoCoord": {
+            "lat": 47.034729,
+            "lng": 15.454571
+        },
+        "id": 9,
+        "category": 2,
+        "title": "Gemüsebau Hierzer",
+        "openingHours": "0-24h",
+        "contact": {
+            "web": "https://maiereier.jimdofree.com"
+        },
+        "location": {
+            "street": "Casalgasse 68",
+            "zip": 8041,
+            "city": "Graz",
+            "description": "Im Hof neben der Straße"
+        },
+
+        "contents": [
+            "Gemüse",
+            "Fleisch"
+        ]
+    },
+
+    "10": {
+        "geoCoord": {
+            "lat": 47.045495,
+            "lng": 15.544576
+        },
+        "id": 10,
+        "category": 2,
+        "title": "Selbstbedienungstand Familie Leopold",
+        "openingHours": "0-24h",
+        "location": {
+            "street": "Steinbergstraße 14",
+            "zip": 8074,
+            "city": "Dürwagersbach",
+            "description": "Direkt an der Einfahrt"
+        },
+
+        "contents": [
+            "Saft"
+        ],
+
+        "images": [
+            {"url": "010_leopold_01.jpg", "title": "-"},
+            {"url": "010_leopold_02.jpg", "title": "-"}
+        ]
+    },
+
+    "11": {
+        "geoCoord": {
+            "lat": 47.019239,
+            "lng": 15.562504
+        },
+        "id": 11,
+        "category": 2,
+        "title": "Selbstbedienungshütte Schlögerhof",
+        "openingHours": "0-24h",
+        "location": {
+            "street": "Gemeindestraße 32",
+            "zip": 8071,
+            "city": "Premstätten",
+            "description": "An der Straße, in einer Holzhütte"
+        },
+
+        "contents": [
+            "Joghurt",
+            "Milch",
+            "Eier",
+            "Molke",
+            "Käse",
+            "Topfen"
+        ]
+    },
+
+    "12": {
+        "geoCoord": {
+            "lat": 47.068580,
+            "lng": 15.446615
+        },
+        "id": 12,
+        "category": 1,
+        "title": "Bauernmarkt Kaiser-Josef-Platz",
+        "openingHours": "täglich Montag-Samstag, 6-13 Uhr",
+        "location": {
+            "street": "Kaiser-Josef-Platz",
+            "zip": 8010,
+            "city": "Graz"
+        },
+        "contact": {
+            "web": "https://www.graz.at/cms/ziel/7747212/DE/"
+        }
+    },
+
+    "13": {
+        "geoCoord": {
+            "lat": 47.074869,
+            "lng": 15.430941
+        },
+        "id": 13,
+        "category": 1,
+        "title": "Bauernmarkt Lendplatz",
+        "openingHours": "täglich Montag-Samstag, 6-13 Uhr",
+        "location": {
+            "street": "Lendplatz",
+            "zip": 8020,
+            "city": "Graz"
+        },
+        "contact": {
+            "web": "https://www.graz.at/cms/ziel/7747212/DE/"
+        }
+    },
+
+    "14": {
+        "geoCoord": {
+            "lat": 47.072180,
+            "lng": 15.402588
+        },
+        "id": 14,
+        "category": 1,
+        "title": "Bauernmarkt Hofbauerplatz Eggenberg",
+        "openingHours": "jeden Mittwoch und Samstag, 6-13 Uhr und Freitag 6-13 Uhr",
+        "location": {
+            "street": "Hofbauerplatz 18-20",
+            "zip": 8020,
+            "city": "Graz"
+        },
+        "contact": {
+            "web": "https://www.graz.at/cms/ziel/7747212/DE/"
+        }
+
+    },
+
+    "15": {
+        "geoCoord": {
+            "lat": 47.103056,
+            "lng": 15.422137
+        },
+        "id": 15,
+        "category": 1,
+        "title": "Bauernmarkt Andritzer Hauptplatz",
+        "openingHours": "jeden Samstag 6-13 Uhr (Anfang März bis November auch Dienstagnachmittag 12-19 Uhr)",
+        "location": {
+            "street": "Andritzer Reichstraße 35a",
+            "zip": 8045,
+            "city": "Graz"
+        },
+        "contact": {
+            "web": "https://www.graz.at/cms/ziel/7747212/DE/"
+        }
+    },
+
+    "16": {
+        "geoCoord": {
+            "lat": 47.103884,
+            "lng": 15.400382
+        },
+        "id": 16,
+        "category": 1,
+        "title": "Bauernmarkt Gösting",
+        "openingHours": "jeden Samstag 7-12 Uhr im Shopping Nord, im überdachten Bereich des Fachmarktzentrums",
+        "location": {
+            "street": "Wiener Straße 333",
+            "zip": 8051,
+            "city": "Graz"
+        },
+        "contact": {
+            "web": "https://www.graz.at/cms/ziel/7747212/DE/"
+        }
+
+    },
+
+    "17": {
+        "geoCoord": {
+            "lat": 47.082779,
+            "lng": 15.433311
+        },
+        "id": 17,
+        "category": 1,
+        "title": "Bauernmarkt Hasnerplatz",
+        "openingHours": "jeden Mittwoch und Samstag 6-13 Uhr",
+        "location": {
+            "street": "Hasnerplatz",
+            "zip": 8010,
+            "city": "Graz"
+        },
+        "contact": {
+            "web": "https://www.graz.at/cms/ziel/7747212/DE/"
+        }
+    },
+
+    "18": {
+        "geoCoord": {
+            "lat": 47.077167,
+            "lng": 15.492796
+        },
+        "id": 18,
+        "category": 1,
+        "title": "Bauernmarkt Ragnitz",
+        "openingHours": "jeden Dienstag und Freitag 6-13 Uhr",
+        "location": {
+            "street": "Ragnitzstraße 164",
+            "zip": 8047,
+            "city": "Graz"
+        },
+        "contact": {
+            "web": "https://www.graz.at/cms/ziel/7747212/DE/"
+        }
+    },
+
+    "19": {
+        "geoCoord": {
+            "lat": 47.061920,
+            "lng": 15.472354
+        },
+        "id": 19,
+        "category": 1,
+        "title": "Bauernmarkt St.Peter",
+        "openingHours": "jeden Samstag 6-13 Uhr (März bis November auch Dienstagnachmittag 12-19 Uhr) ",
+        "location": {
+            "street": "St.Peter Pfarrweg 35",
+            "zip": 8010,
+            "city": "Graz"
+        },
+        "contact": {
+            "web": "https://www.graz.at/cms/ziel/7747212/DE/"
+        }
+
+    },
+
+    "20": {
+        "geoCoord": {
+            "lat": 47.018277,
+            "lng": 15.399303
+        },
+        "id": 20,
+        "category": 1,
+        "title": "Bauernmarkt Straßgang",
+        "openingHours": "jeden Samstag 6-13 Uhr",
+        "location": {
+            "street": "Kärntner Straße 451",
+            "zip": 8045,
+            "city": "Graz"
+        },
+        "contact": {
+            "web": "https://www.graz.at/cms/ziel/7747212/DE/"
+        }
+
+    },
+
+    "21": {
+        "geoCoord": {
+            "lat": 47.050075,
+            "lng": 15.428020
+        },
+        "id": 21,
+        "category": 1,
+        "title": "Bauernmarkt Triestersiedlung",
+        "openingHours": "jeden Mittwoch und Samstag 6-13 Uhr",
+        "location": {
+            "street": "Vinzenz-Muchitsch-Straße 53",
+            "zip": 8020,
+            "city": "Graz"
+        },
+        "contact": {
+            "web": "https://www.graz.at/cms/ziel/7747212/DE/"
+        }
+
+    },
+
+    "22": {
+        "geoCoord": {
+            "lat": 47.050665,
+            "lng": 15.393491
+        },
+        "id": 22,
+        "category": 1,
+        "title": "Bauernmarkt Wetzelsdorf",
+        "openingHours": "jeden Samstag 6-13 Uhr",
+        "location": {
+            "street": "Peter-Rosegger-Straße 125",
+            "zip": 8052,
+            "city": "Graz"
+        },
+        "contact": {
+            "web": "https://www.graz.at/cms/ziel/7747212/DE/"
+        }
+    },
+
+    "23": {
+        "geoCoord": {
+            "lat": 47.078276,
+            "lng": 15.443553
+        },
+        "id": 23,
+        "category": 1,
+        "title": "Bauernmarkt Geidorfplatz",
+        "openingHours": "jeden Mittwoch und Samstag 6-13 Uhr",
+        "location": {
+            "street": "Geidorfplatz",
+            "zip": 8010,
+            "city": "Graz"
+        },
+        "contact": {
+            "web": "https://www.graz.at/cms/ziel/7747212/DE/"
+        }
+    },
+
+    "24": {
+        "geoCoord": {
+            "lat": 47.090043,
+            "lng": 15.459832
+        },
+        "id": 24,
+        "category": 1,
+        "title": "Bauernmarkt Mariagrün",
+        "openingHours": "jeden Freitag 13-18 Uhr",
+        "location": {
+            "street": "Lindenhofweg 2",
+            "zip": 8043,
+            "city": "Graz"
+        }
+    },
+
+    "25": {
+        "geoCoord": {
+            "lat": 47.060155,
+            "lng": 15.428452
+        },
+        "id": 25,
+        "category": 1,
+        "title": "Bio-Bauernmarkt Citypark",
+        "openingHours": "jeden Freitag 10-16 Uhr",
+        "location": {
+            "street": "Lazarettgürtel 55",
+            "zip": 8020,
+            "city": "Graz"
+        },
+        "contact": {
+            "web": "https://www.citypark.at/de/shops-gastro/bauernmarkt"
+        }
+    },
+
+    "26": {
+        "geoCoord": {
+            "lat": 47.027255,
+            "lng": 15.466253
+        },
+        "id": 26,
+        "category": 1,
+        "title": "Bauernmarkt Liebenau",
+        "openingHours": "jeden Freitag 13-17 Uhr",
+        "location": {
+            "street": "Liebenauer Hauptstraße 234",
+            "zip": 8041,
+            "city": "Graz"
+        }
+    },
+
+    "27": {
+        "geoCoord": {
+            "lat": 47.069318,
+            "lng": 15.455260
+        },
+        "id": 27,
+        "category": 1,
+        "title": "Bio-Bauernmarkt Herz-Jesu",
+        "openingHours": "jeden Dienstag 14-18 Uhr",
+        "location": {
+            "street": "Johannes-Zwerger-Platz",
+            "zip": 8010,
+            "city": "Graz"
+        },
+        "contact": {
+            "web": "https://www.facebook.com/Bio-Bauernmarkt-Herz-Jesu-Kirche-2242743665985100"
+        }
+    },
+
+    "28": {
+       "geoCoord": {
+            "lat": 47.115612,
+            "lng": 15.422627
+        },
+        "id": 28,
+        "category": 2,
+        "title": "Eierautomat Bauernhof Riel",
+        "openingHours": "0-24h",
+        "location": {
+            "street": "Stattegger Straße 44",
+            "zip": 8045,
+            "city": "Graz"
+        },
+        "contents": [
+            "Eier"
+        ] 
+    },
+
+    "29": {
+       "geoCoord": {
+            "lat": 47.108809,
+            "lng": 15.427963
+        },
+        "id": 29,
+        "category": 2,
+        "title": "Milchautomat Andritz",
+        "openingHours": "0-24h",
+        "location": {
+            "street": "Radegunder Straße 35",
+            "zip": 8045,
+            "city": "Graz"
+        },
+
+        "contents": [
+            "Milch"
+        ],
+
+        "contact": {
+            "web": "http://www.frische-milch.at"
+        }
+    },
+
+    "30": {
+       "geoCoord": {
+            "lat": 47.092301,
+            "lng": 15.401070
+        },
+        "id": 30,
+        "category": 2,
+        "title": "Milchautomat Gösting",
+        "openingHours": "0-24h",
+        "location": {
+            "street": "Plabutscherstraße 115",
+            "zip": 8051,
+            "city": "Graz"
+        },
+
+        "contents": [
+            "Milch"
+        ],
+
+        "contact": {
+            "web": "http://www.frische-milch.at"
+        }
+    },
+
+    "31": {
+       "geoCoord": {
+            "lat": 47.042001,
+            "lng": 15.449044
+        },
+        "id": 31,
+        "category": 2,
+        "title": "Milchautomat Liebenau",
+        "openingHours": "0-24h",
+        "location": {
+            "street": "Andersengasse 1",
+            "zip": 8041,
+            "city": "Graz"
+        },
+
+        "contents": [
+            "Milch"
+        ],
+
+        "contact": {
+            "web": "http://www.frische-milch.at"
+        }
+    },
+
+    "32": {
+       "geoCoord": {
+            "lat": 47.058487,
+            "lng": 15.477250
+        },
+        "id": 32,
+        "category": 2,
+        "title": "Milchautomat St.Peter",
+        "openingHours": "0-24h",
+        "location": {
+            "street": "Professor-Franz-Spath-Ring 10",
+            "zip": 8042,
+            "city": "Graz"
+        },
+
+        "contents": [
+            "Milch"
+        ],
+
+        "contact": {
+            "web": "http://www.frische-milch.at"
+        }
+    },
+
+    "33": {
+       "geoCoord": {
+            "lat": 47.131805,
+            "lng": 15.322843
+        },
+        "id": 33,
+        "category": 2,
+        "title": "Milchautomat Gratwein",
+        "openingHours": "0-24h",
+        "location": {
+            "street": "Bahnhofstraße 38",
+            "zip": 8112,
+            "city": "Gratwein"
+        },
+
+        "contents": [
+            "Milch"
+        ],
+
+        "contact": {
+            "web": "http://www.frische-milch.at"
+        }
+    },
+
+    "34": {
+        "geoCoord": {
+            "lat": 46.978491,
+            "lng": 15.323919
+        },
+        "id": 34,
+        "category": 2,
+        "title": "Automat Hofveitl - Gärtnerei Kochauf",
+        "openingHours": "0-24h",
+        "contact": {
+            "web": "https://www.hofveitl.at/"
+        },
+        "location": {
+            "street": "Hochstraße 4",
+            "zip": 8051,
+            "city": "Lieboch"
+        }
+    },
+
+    "35": {
+        "geoCoord": {
+            "lat": 46.990827,
+            "lng": 15.343540
+        },
+        "id": 35,
+        "category": 2,
+        "title": "Automat Hofveitl",
+        "openingHours": "0-24h",
+        "contact": {
+            "web": "https://www.hofveitl.at/"
+        },
+        "location": {
+            "street": "Hofweg 1",
+            "zip": 8144,
+            "city": "Haselsdorf"
+        }
+    },
+
+    "36": {
+        "geoCoord": {
+            "lat": 47.004235,
+            "lng": 15.399295
+        },
+        "id": 36,
+        "category": 2,
+        "title": "Automat Hofveitl - Blumen Fischer",
+        "openingHours": "0-24h",
+        "contact": {
+            "web": "https://www.hofveitl.at/"
+        },
+        "location": {
+            "street": "Premstätter Straße 54",
+            "zip": 8054,
+            "city": "Pirka"
+        }
+    },
+
+    "37": {
+        "geoCoord": {
+            "lat": 47.034744,
+            "lng": 15.454580
+        },
+        "id": 37,
+        "category": 2,
+        "title": "Automat Hofveitl & Mooshammer - Gartenbau Hierzer",
+        "openingHours": "0-24h",
+        "contact": {
+            "web": "https://www.hofveitl.at/"
+        },
+        "location": {
+            "street": "Casalgasse 68",
+            "zip": 8041,
+            "city": "Graz"
+        }
+    },
+
+    "38": {
+        "geoCoord": {
+            "lat": 47.049463,
+            "lng": 15.390681
+        },
+        "id": 38,
+        "category": 2,
+        "title": "Automat Hofveitl - Steiermarkhof",
+        "openingHours": "0-24h",
+        "contact": {
+            "web": "https://www.hofveitl.at/"
+        },
+        "location": {
+            "street": "Krottendorfer Straße 81",
+            "zip": 8052,
+            "city": "Graz"
+        }
+    },
+
+    "39": {
+        "geoCoord": {
+            "lat": 47.057630,
+            "lng": 15.395391
+        },
+        "id": 39,
+        "category": 2,
+        "title": "Automat Hofveitl - Strassgang",
+        "openingHours": "0-24h",
+        "contact": {
+            "web": "https://www.hofveitl.at/"
+        },
+        "location": {
+            "street": "Straßganger Straße 126",
+            "zip": 8052,
+            "city": "Graz"
+        }
+    },
+
+    "40": {
+        "geoCoord": {
+            "lat": 47.085621,
+            "lng": 15.416402
+        },
+        "id": 40,
+        "category": 2,
+        "title": "Automat Hofveitl - Kalvariengürtel",
+        "openingHours": "0-24h",
+        "contact": {
+            "web": "https://www.hofveitl.at/"
+        },
+        "location": {
+            "street": "Kalvariengürtel 54",
+            "zip": 8020,
+            "city": "Graz"
+        }
+    },
+
+    "41": {
+        "geoCoord": {
+            "lat": 47.077954,
+            "lng": 15.355537
+        },
+        "id": 41,
+        "category": 2,
+        "title": "Automat Hofveitl & Mooshammer - Thal",
+        "openingHours": "0-24h",
+        "contact": {
+            "web": "https://www.hofveitl.at/"
+        },
+        "location": {
+            "street": "Unterthalstraße 20",
+            "zip": 8051,
+            "city": "Thal"
+        }
+    },
+
+    "42": {
+        "geoCoord": {
+            "lat": 47.104818,
+            "lng": 15.612780
+        },
+        "id": 42,
+        "category": 2,
+        "title": "Automat Lembachtal",
+        "openingHours": "0-24h",
+        "location": {
+            "street": "Lembachmühle",
+            "zip": 8063,
+            "city": "Eggersdorf",
+            "description": "Beim P+R Platz"
+        }
+    },
+
+    "43": {
+        "geoCoord": {
+            "lat": 46.991457,
+            "lng": 15.508061
+        },
+        "id": 43,
+        "category": 2,
+        "title": "Automat Hausmannstätten",
+        "openingHours": "0-24h",
+        "contact": {
+        },
+        "location": {
+            "street": "Marktplatz 1",
+            "zip": 8071,
+            "city": "Hausmannstätten",
+            "description": "Neben der Bushaltestelle"
+        },
+
+        "contents": [
+            "Fleisch",
+            "Kürbiskernöl",
+            "Eier",
+            "Topfen",
+            "Joghurt",
+            "Honig"
+        ],
+
+        "contact": {
+            "web": "http://kefers.at"
+        },
+
+        "payment": [
+            "Bankomat",
+            "Münzen",
+            "Geldscheine"
+        ]
+    },
+
+    "44": {
+        "geoCoord": {
+            "lat": 47.075314,
+            "lng": 15.447628
+        },
+        "id": 44,
+        "category": 2,
+        "title": "Automat Mooshammer - Zinsendorfgasse",
+        "openingHours": "0-24h",
+        "contact": {
+        },
+        "location": {
+            "street": "Zinsendorfgasse 12",
+            "zip": 8010,
+            "city": "Graz",
+            "description": "Neben dem Geschäft"
+        },
+
+        "contents": [
+            "Fleisch"
+        ],
+
+        "contact": {
+            "web": "https://mosshammer.at"
+        }
+    },
+
+
+    "47": {
+        "geoCoord": {
+            "lat": 47.045914,
+            "lng": 15.386157
+        },
+        "id": 47,
+        "category": 1,
+        "title": "Biobauernmarkt Alt-Grottenhof",
+        "openingHours": "jeden Freitag 12-16 Uhr",
+
+        "contact": {
+            "web": "https://www.facebook.com/Bio-Bauernmarkt-Alt-Grottenhof-297669911150420/"
+        },
+
+        "location": {
+            "street": "Krottendorferstraße 110",
+            "zip": 8052,
+            "city": "Graz"
+        }
+    },
+
+    "48": {
+        "geoCoord": {
+            "lat": 47.079261,
+            "lng": 15.410986
+        },
+        "id": 48,
+        "category": 1,
+        "title": "Bauernmarkt Smart-City",
+        "openingHours": "jeden Donnerstag 12-18 Uhr",
+        "location": {
+            "street": "Waagner-Biro-Straße 101",
+            "zip": 8020,
+            "city": "Graz"
+        }
+    },
+
+    "49": {
+        "geoCoord": {
+            "lat": 47.012215,
+            "lng":  15.412642
+        },
+        "id": 49,
+        "category": 1,
+        "title": "Bauernmarkt ShoppingCity Seiersberg",
+        "openingHours": "jeden Dienstag ab 9Uhr",
+        "location": {
+            "street": "ShoppingCity Seiersberg",
+            "zip": 8055,
+            "city": "Seiersberg",
+            "description": "Am Schauplatz"
+        }
+    },
+
+    "50": {
+        "geoCoord": {
+            "lat": 47.045399,
+            "lng": 15.519108
+        },
+        "id": 50,
+        "category": 1,
+        "title": "Bauernmarkt Hart bei Graz",
+        "openingHours": "jeden Freitag 12-17 Uhr",
+        "location": {
+            "street": "Pachern-Hauptstraße 87",
+            "zip": 8057,
+            "city": "Hart bei Graz",
+            "description": "Am Billa Parkplatz"
+        }
+    },
+
+    "51": {
+        "geoCoord": {
+            "lat": 46.687627,
+            "lng": 15.987647
+        },
+        "id": 51,
+        "category": 1,
+        "title": "Bauernmarkt Hauptplatz Bad Radkersburg",
+        "openingHours": "jeden Freitag 13-16 Uhr",
+        "location": {
+            "street": "Hauptplatz",
+            "zip": 8490,
+            "city": "Bad Radkersburg"
+        }
+    },
+
+    "52": {
+        "geoCoord": {
+            "lat": 46.687068,
+            "lng": 15.977259
+        },
+        "id": 52,
+        "category": 1,
+        "title": "Bauernmarkt Parktherme Bad Radkersburg",
+        "openingHours": "jeden Dienstag, Donnerstag, Samstag 14:30-17 Uhr",
+        "location": {
+            "street": "Alfred Merlini-Allee 7",
+            "zip": 8490,
+            "city": "Bad Radkersburg",
+            "description": "Am Vorplatz der Parktherme"
+        }
+    },
+
+    "53": {
+        "geoCoord": {
+            "lat": 46.762927,
+            "lng": 15.966505
+        },
+        "id": 53,
+        "category": 1,
+        "title": "Bauernmarkt Klöch",
+        "openingHours": "jeden Freitag 16-18 Uhr (Anfang April-Ende Oktober)",
+        "location": {
+            "street": "Marktplatz",
+            "zip": 8493,
+            "city": "Klöch"
+        }
+    },
+
+    "54": {
+        "geoCoord": {
+            "lat": 47.168139,
+            "lng": 16.025835
+        },
+        "id": 54,
+        "category": 1,
+        "title": "Bauernmarkt Bad Waltersdorf",
+        "openingHours": "jeden Dienstag und Freitag 14-18 Uhr und jeden Donnerstag 14:30-17:00",
+        "location": {
+            "street": "Thermenstraße 111",
+            "zip": 8271,
+            "city": "Bad Waltersdorf"
+        }
+    },
+
+    "55": {
+        "geoCoord": {
+            "lat": 47.086973,
+            "lng": 15.926026
+        },
+        "id": 55,
+        "category": 1,
+        "title": "Bauernmarkt Ilz",
+        "openingHours": "jeden Freitag 14-18Uhr",
+        "location": {
+            "street": "Hauptplatz",
+            "zip": 8262,
+            "city": "Ilz"
+        }
+    },
+
+    "56": {
+        "geoCoord": {
+            "lat": 47.050875,
+            "lng": 16.076355
+        },
+        "id": 56,
+        "category": 1,
+        "title": "Bauernmarkt Fürstenfeld",
+        "openingHours": "jeden Mittwoch 16-19Uhr und jeden Samstag 8-12Uhr",
+        "location": {
+            "street": "Hauptplatz",
+            "zip": 8280,
+            "city": "Fürstenfeld"
+        }
+    },
+
+    "57": {
+        "geoCoord": {
+            "lat": 46.999414,
+            "lng": 15.937059
+        },
+        "id": 57,
+        "category": 1,
+        "title": "Bauernmarkt Riegersburg",
+        "openingHours": "Freitags 16-17Uhr (Anfang März-Freitag vor Heiligabend",
+        "location": {
+            "street": "Riegersburg 156",
+            "zip": 8333,
+            "city": "Riegersburg",
+            "description": "Am Parkplatz der Firma Rappold"
+        }
+    },
+
+    "58": {
+        "geoCoord": {
+            "lat": 46.953422,
+            "lng": 15.888581
+        },
+        "id": 58,
+        "category": 1,
+        "title": "Bauernmarkt Feldbach",
+        "openingHours": "Jeden Samstag 7:30-11:30 (außer Feiertage und Karsamstag)",
+        "location": {
+            "street": "Hauptplatz",
+            "zip": 8330,
+            "city": "Feldbach"
+        }
+    },
+
+    "59": {
+        "geoCoord": {
+            "lat": 46.933752,
+            "lng": 15.663348
+        },
+        "id": 59,
+        "category": 1,
+        "title": "Bio-Bauernmarkt in Milli’s Bio-Oase in Kirchbach-Zerlach",
+        "openingHours": "Jeden 2.Samstag 8:30-12Uhr",
+        "location": {
+            "street": "Kirchbach 104",
+            "zip": 8082,
+            "city": "Kirchbach-Zerlach"
+        },
+
+        "contact": {
+            "web": "http://www.bio-oase.at/"
+        }
+    },
+
+    "60": {
+        "geoCoord": {
+            "lat": 46.936000,
+            "lng": 16.010488
+        },
+        "id": 60,
+        "category": 1,
+        "title": "Fehringer Samstagsmarkt",
+        "openingHours": "Jeden Samstag von 8-12Uhr (außer an Feiertagen)",
+        "location": {
+            "street": "Hauptplatz",
+            "zip": 8350,
+            "city": "Fehring"
+        }
+    },
+
+    "61": {
+        "geoCoord": {
+            "lat": 46.870003,
+            "lng": 15.902993
+        },
+        "id": 61,
+        "category": 1,
+        "title": "Bauernmarkt Bollwerk Bad Gleichenberg",
+        "openingHours": "Jeden Freitag im Sommer 15-19Uhr und im Winter 14-17Uhr",
+        "location": {
+            "street": "Radkersburger Straße 1",
+            "zip": 8344,
+            "city": "Bad Gleichenberg"
+        }
+    },
+
+    "62": {
+        "geoCoord": {
+            "lat": 46.876319,
+            "lng": 15.909280
+        },
+        "id": 62,
+        "category": 1,
+        "title": "Vulkanlandmarkt Bad Gleichenberg",
+        "openingHours": "Jeden Freitag 16-19Uhr (März-September)",
+        "location": {
+            "street": "Hauptplatz",
+            "zip": 8344,
+            "city": "Bad Gleichenberg"
+        },
+
+        "contact": {
+            "web": "https://www.vulkanlandmarkt.at/"
+        }
+    },
+
+    "63": {
+        "geoCoord": {
+            "lat": 46.781317,
+            "lng": 15.538142
+        },
+        "id": 63,
+        "category": 1,
+        "title": "Abendmarkt Leibnitz",
+        "openingHours": "Jeden Dienstag 16-19Uhr",
+        "location": {
+            "street": "Hauptplatz",
+            "zip": 8430,
+            "city": "Leibnitz"
+        }
+    },
+
+    "64": {
+        "geoCoord": {
+            "lat": 46.727832,
+            "lng": 15.623154
+        },
+        "id": 64,
+        "category": 1,
+        "title": "Bauernmarkt am Marktbrunnen in Straß",
+        "openingHours": "Jeden Freitag 9-12Uhr",
+        "location": {
+            "street": "Hauptstraße 61",
+            "zip": 8472,
+            "city": "Straß in Steiermark"
+        }
+    },
+
+    "65": {
+        "geoCoord": {
+            "lat": 46.781990,
+            "lng": 15.542886
+        },
+        "id": 65,
+        "category": 1,
+        "title": "Bauernmarkt im Marenzipark",
+        "openingHours": "Jeden Mittwoch 7-11Uhr",
+        "location": {
+            "street": "Marenzipark",
+            "zip": 8430,
+            "city": "Leibnitz"
+        }
+    },
+
+    "66": {
+        "geoCoord": {
+            "lat": 46.719495,
+            "lng": 15.550618
+        },
+        "id": 66,
+        "category": 1,
+        "title": "Gamlitzer Bauernmarkt",
+        "openingHours": "Jeden Samstag 9-12Uhr",
+        "location": {
+            "street": "Pleysteinplatz",
+            "zip": 8462,
+            "city": "Gamlitz"
+        }
+    },
+
+    "67": {
+        "geoCoord": {
+            "lat": 46.781769,
+            "lng": 15.539123
+        },
+        "id": 67,
+        "category": 1,
+        "title": "SüdsteierMARKT",
+        "openingHours": "Jeden Freitag 8-14Uhr",
+        "location": {
+            "street": "Hauptplatz",
+            "zip": 8430,
+            "city": "Leibnitz"
+        }
+    },
+
+    "68": {
+        "geoCoord": {
+            "lat": 46.814638,
+            "lng": 15.213639
+        },
+        "id": 68,
+        "category": 1,
+        "title": "Bio-Bauernmarkt Deutschlandsberg",
+        "openingHours": "Jeden Freitag 15-18Uhr",
+        "location": {
+            "street": "Hauptplatz",
+            "zip": 8530,
+            "city": "Deutschlandsberg"
+        },
+
+        "contact": {
+            "web": "https://www.facebook.com/Bio-Bauernmarkt-Deutschlandsberg-481264708638819"
+        }
+    },
+
+    "69": {
+        "geoCoord": {
+            "lat": 47.073207,
+            "lng": 14.425946
+        },
+        "id": 69,
+        "category": 1,
+        "title": "Bio-Bauernmarkt Neumarkt",
+        "openingHours": "Jeden Samstag 9-12Uhr (außer 23.Dez-10.Feb)",
+        "location": {
+            "street": "Hauptplatz",
+            "zip": 8820,
+            "city": "Neumarkt"
+        },
+
+        "contact": {
+            "web": "https://www.facebook.com/biobauernmarkt.neumarkt/"
+        }
+    },
+
+    "70": {
+        "geoCoord": {
+            "lat": 47.1051832,
+            "lng": 15.7091869
+        },
+        "id": 70,
+        "category": 1,
+        "title": "Bauernmarkt Gleisdorf",
+        "openingHours": "Jeden Mittwoch 13-17:30, Samstag 7-12Uhr",
+        "location": {
+            "street": "Hauptplatz 1",
+            "zip": 8200,
+            "city": "Gleisdorf"
+        }
+    },
+
+    "71": {
+        "geoCoord": {
+            "lat": 47.3919019,
+            "lng": 13.6907385
+        },
+        "id": 71,
+        "category": 1,
+        "title": "Bauernmarkt Schladming",
+        "openingHours": "Jeden Freitag 8-12Uhr",
+        "location": {
+            "street": "Coburgstraße 44",
+            "zip": 8970,
+            "city": "Schladming"
+        }
+    },
+
+    "72": {
+        "geoCoord": {
+            "lat": 47.280996,
+            "lng": 15.969203
+        },
+        "id": 72,
+        "category": 1,
+        "title": "Altstadtmarkt Hartberg",
+        "openingHours": "Jeden Samstag 8:30-13Uhr",
+        "location": {
+            "street": "Hauptplatz",
+            "zip": 8230,
+            "city": "Hartberg"
+        }
+    },
+
+    "73": {
+        "geoCoord": {
+            "lat": 47.354989,
+            "lng": 15.694992
+        },
+        "id": 73,
+        "category": 1,
+        "title": "Bauernmarkt Birkfeld",
+        "openingHours": "Jeden Freitag 14:00-18Uhr",
+        "location": {
+            "street": "Hauptplatz",
+            "zip": 8190,
+            "city": "Birkfeld",
+            "description": "vor der Pfarre"
+        }
+    },
+
+    "74": {
+        "geoCoord": {
+            "lat": 47.278554,
+            "lng": 15.966766
+        },
+        "id": 74,
+        "category": 1,
+        "title": "Bauernmarkt Hartberg",
+        "openingHours": "Jeden Dienstag und Freitag 12:00-18:30Uhr",
+        "location": {
+            "street": "Kernstockplatz",
+            "zip": 8230,
+            "city": "Hartberg"
+        },
+
+        "contact": {
+            "web": "http://www.hartbergerland.at/bauernmarkt-in-hartberg_59_805.htm"
+        }
+    },
+
+    "75": {
+        "geoCoord": {
+            "lat": 47.153478,
+            "lng": 15.662409
+        },
+        "id": 75,
+        "category": 1,
+        "title": "Bauernmarkt St.Ruprecht",
+        "openingHours": "Jeden Samstag 7-11Uhr",
+        "location": {
+            "street": "Hauptplatz",
+            "zip": 8181,
+            "city": "St.Ruprecht an der Raab"
+        }
+    },
+
+    "76": {
+        "geoCoord": {
+            "lat": 47.217245,
+            "lng": 15.622106
+        },
+        "id": 76,
+        "category": 1,
+        "title": "Bauernmarkt Weiz",
+        "openingHours": "Jeden Mittwoch und Samstag 7-11:30Uhr",
+        "location": {
+            "street": "Hauptplatz",
+            "zip": 8160,
+            "city": "Weiz"
+        }
+    },
+
+    "77": {
+        "geoCoord": {
+            "lat": 47.439297,
+            "lng": 15.289137
+        },
+        "id": 77,
+        "category": 1,
+        "title": "Bauernmarkt Kapfenberg",
+        "openingHours": "Jeden Samstag Vormittag",
+        "location": {
+            "street": "Koloman-Wallisch Platz",
+            "zip": 8605,
+            "city": "Kapfenberg"
+        },
+
+        "contact": {
+            "web": "https://www.bauernmarkt-kapfenberg.at/"
+        }
+    },
+
+    "78": {
+        "geoCoord": {
+            "lat": 47.409891,
+            "lng": 15.269524
+        },
+        "id": 78,
+        "category": 1,
+        "title": "Bauernmarkt Bruck an der Mur",
+        "openingHours": "Jeden Mittwoch 7.30-12:00",
+        "location": {
+            "street": "Kirchplatz",
+            "zip": 8600,
+            "city": "Bruck an der Mur"
+        }
+    },
+
+    "79": {
+        "geoCoord": {
+            "lat": 47.199491,
+            "lng": 15.335791
+        },
+        "id": 79,
+        "category": 1,
+        "title": "Bauernmarkt Deutschfeistritz",
+        "openingHours": "Mittwoch 8-12Uhr, Samstag 7-11Uhr",
+        "location": {
+            "street": "Marktplatz",
+            "zip": 8121,
+            "city": "Deutschfeistritz"
+        }
+    },
+
+    "80": {
+        "geoCoord": {
+            "lat": 46.687849,
+            "lng": 15.249146
+        },
+        "id": 80,
+        "category": 1,
+        "title": "Bauernmarkt Eibiswald",
+        "openingHours": "Samstag 8-12Uhr",
+        "location": {
+            "street": "Hubmann Platz",
+            "zip": 8552,
+            "city": "Eibiswald"
+        }
+    },
+
+    "81": {
+        "geoCoord": {
+            "lat": 47.011555,
+            "lng": 15.443354
+        },
+        "id": 81,
+        "category": 1,
+        "title": "Bauernmarkt Feldkirchen bei Graz",
+        "openingHours": "Freitag 14-17:30Uhr",
+        "location": {
+            "street": "Marktplatz",
+            "zip": 8073,
+            "city": "Feldkirchen bei Graz"
+        }
+    },
+
+    "81": {
+        "geoCoord": {
+            "lat": 46.972936,
+            "lng": 15.500258
+        },
+        "id": 81,
+        "category": 1,
+        "title": "Bauernmarkt Fernitz",
+        "openingHours": "Freitag 14-17Uhr",
+        "location": {
+            "street": "Kirchplatz",
+            "zip": 8072,
+            "city": "Fernitz-Mellach"
+        }
+    },
+
+    "82": {
+        "geoCoord": {
+            "lat": 47.208473,
+            "lng": 14.677651
+        },
+        "id": 82,
+        "category": 1,
+        "title": "Bauernmarkt Fohnsdorf",
+        "openingHours": "Freitag 13:30-16:30",
+        "location": {
+            "street": "Hauptplatz",
+            "zip": 8753,
+            "city": "Fohnsdorf"
+        }
+    },
+
+    "83": {
+        "geoCoord": {
+            "lat": 47.270894,
+            "lng": 15.326340
+        },
+        "id": 83,
+        "category": 1,
+        "title": "Bauernmarkt Frohnleiten",
+        "openingHours": "Samstag 7:30-11:30",
+        "location": {
+            "street": "Hauptplatz",
+            "zip": 8130,
+            "city": "Frohnleiten"
+        }
+    },
+
+    "84": {
+        "geoCoord": {
+            "lat": 46.873702,
+            "lng": 15.825714
+        },
+        "id": 84,
+        "category": 1,
+        "title": "Bauernmarkt Gnas",
+        "openingHours": "Samstag 7-10Uhr",
+        "location": {
+            "street": "Hauptplatz",
+            "zip": 8342,
+            "city": "Gnas",
+            "description": "vor dem Postamt"
+        }
+    }, 
+
+    "85": {
+        "geoCoord": {
+            "lat": 47.339500,
+            "lng": 15.991400
+        },
+        "id": 85,
+        "category": 1,
+        "title": "Bauernmarkt Grafendorf bei Hartberg",
+        "openingHours": "jeden 2.Freitag 14-18Uhr",
+        "location": {
+            "street": "Unterdrummstraße",
+            "zip": 8232,
+            "city": "Grafendorf"
+        }
+    }, 
+
+    "86": {
+        "geoCoord": {
+            "lat": 47.132616,
+            "lng": 15.341110
+        },
+        "id": 86,
+        "category": 1,
+        "title": "Bauernmarkt Gratkorn",
+        "openingHours": "Samstag 7-11Uhr",
+        "location": {
+            "street": "Andreas-Leykam-Platz",
+            "zip": 8101,
+            "city": "Gratkorn"
+        }
+    }, 
+
+    "87": {
+        "geoCoord": {
+            "lat": 47.129473,
+            "lng": 15.318023
+        },
+        "id": 87,
+        "category": 1,
+        "title": "Bauernmarkt Hauptplatz Gratwein-Straßengel",
+        "openingHours": "Samstag 8-11Uhr",
+        "location": {
+            "street": "Hautplatz",
+            "zip": 8112,
+            "city": "Gratwein-Straßengel"
+        }
+    }, 
+
+    "88": {
+        "geoCoord": {
+            "lat": 47.116855,
+            "lng": 15.341657
+        },
+        "id": 88,
+        "category": 1,
+        "title": "Bauernmarkt Festwiese Gratwein-Straßengel",
+        "openingHours": "Freitag 14-17Uhr, Samstag 7-11Uhr",
+        "location": {
+            "street": "Festwiese",
+            "zip": 8112,
+            "city": "Gratwein-Straßengel"
+        }
+    }, 
+
+    "89": {
+        "geoCoord": {
+            "lat": 47.053776,
+            "lng": 15.448574
+        },
+        "id": 89,
+        "category": 1,
+        "title": "Bauernmarkt Ostbahnhof",
+        "openingHours": "Samstag 6-13Uhr",
+        "location": {
+            "street": "Ostbahnhof",
+            "zip": 8020,
+            "city": "Graz"
+        }
+    }, 
+
+    "90": {
+        "geoCoord": {
+            "lat": 47.095726,
+            "lng": 15.405813
+        },
+        "id": 90,
+        "category": 1,
+        "title": "Bauernmarkt Gösting - Wienerstraße",
+        "openingHours": "Samstag 6-13Uhr",
+        "location": {
+            "street": "Wienerstraße 286",
+            "zip": 8051,
+            "city": "Graz",
+            "description": "Bei der TG Interspar"
+        }
+    }, 
+
+    "91": {
+        "geoCoord": {
+            "lat": 47.230507,
+            "lng": 15.917388
+        },
+        "id": 91,
+        "category": 1,
+        "title": "Bauernmarkt Kaindorf Baumschule",
+        "openingHours": "Samstag vormittags",
+        "location": {
+            "street": "Kaindorf 300",
+            "zip": 8224,
+            "city": "Kaindorf bei Hartberg"
+        }
+    }, 
+
+    "92": {
+        "geoCoord": {
+            "lat": 47.225390,
+            "lng": 15.906796
+        },
+        "id": 92,
+        "category": 1,
+        "title": "Bauernmarkt Kaindorf Teichstubn",
+        "openingHours": "Donnerstag ab 17Uhr (Juni-Oktober",
+        "location": {
+            "street": "Kaindorf 231",
+            "zip": 8224,
+            "city": "Kaindorf bei Hartberg"
+        }
+    }, 
+
+    "93": {
+        "geoCoord": {
+            "lat": 46.971893,
+            "lng": 15.472970
+        },
+        "id": 93,
+        "category": 1,
+        "title": "Bauernmarkt Kalsdorf",
+        "openingHours": "Freitag 13:30-16:30",
+        "location": {
+            "street": "Max-Mell-Gasse 1",
+            "zip": 8401,
+            "city": "Kalsdorf bei Graz",
+            "description": "Parkplatz Firma Kornhäusl"
+        }
+    }, 
+
+    "94": {
+        "geoCoord": {
+            "lat": 46.987908,
+            "lng": 15.762405
+        },
+        "id": 94,
+        "category": 1,
+        "title": "Bauernmarkt Kirchberg an der Raab",
+        "openingHours": "Samstag 8-11Uhr",
+        "location": {
+            "street": "Kirchberg an der Raab 194",
+            "zip": 8324,
+            "city": "Kirchberg an der Raab",
+            "description": "Bei Firma Stangl"
+        }
+    }, 
+
+    "95": {
+        "geoCoord": {
+            "lat": 47.212462,
+            "lng": 14.830495
+        },
+        "id": 95,
+        "category": 1,
+        "title": "Bauernmarkt Knittelfeld",
+        "openingHours": "Dienstag, Donnerstag, Samstag 8-12Uhr",
+        "location": {
+            "street": "Esperantostraße 22",
+            "zip": 8720,
+            "city": "Knittelfeld"
+        }
+    }, 
+
+    "96": {
+        "geoCoord": {
+            "lat": 47.064751,
+            "lng": 15.082408
+        },
+        "id": 96,
+        "category": 1,
+        "title": "Bauernmarkt Köflach",
+        "openingHours": "Freitag 8-12Uhr",
+        "location": {
+            "street": "Rathausplatz",
+            "zip": 8580,
+            "city": "Köflach"
+        }
+    }, 
+
+    "97": {
+        "geoCoord": {
+            "lat": 47.160111,
+            "lng": 15.533750
+        },
+        "id": 97,
+        "category": 1,
+        "title": "Bauernmarkt Kumberg",
+        "openingHours": "Samstag 7:30-11:30Uhr",
+        "location": {
+            "street": "Rathausplatz",
+            "zip": 8062,
+            "city": "Kumberg",
+            "description": "Parkplatz Loder"
+        }
+    }, 
+
+    "98": {
+        "geoCoord": {
+            "lat": 47.380990,
+            "lng": 15.094576
+        },
+        "id": 98,
+        "category": 1,
+        "title": "Bauernmarkt Leoben",
+        "openingHours": "Samstag 7-13Uhr",
+        "location": {
+            "street": "Kirchplatz",
+            "zip": 8700,
+            "city": "Leoben"
+        }
+    }, 
+
+    "99": {
+        "geoCoord": {
+            "lat": 46.974837,
+            "lng": 15.333146
+        },
+        "id": 99,
+        "category": 1,
+        "title": "Bauernmarkt Lieboch 1",
+        "openingHours": "Freitag 15-18Uhr",
+        "location": {
+            "street": "Packerstraße 123",
+            "zip": 8501,
+            "city": "Lieboch",
+            "descrption": "Am Parkplatz Billa"
+        }
+    }, 
+
+    "100": {
+        "geoCoord": {
+            "lat": 46.961794,
+            "lng": 15.352023
+        },
+        "id": 100,
+        "category": 1,
+        "title": "Bauernmarkt Lieboch 2",
+        "openingHours": "Samstag 9-17Uhr",
+        "location": {
+            "street": "Werner Gröbl Straße",
+            "zip": 8501,
+            "city": "Lieboch",
+            "description": "Am Lutz Parkplatz"
+        }
+    }, 
+
+    "101": {
+        "geoCoord": {
+            "lat": 47.567156,
+            "lng": 14.241995
+        },
+        "id": 101,
+        "category": 1,
+        "title": "Bauernmarkt Liezen",
+        "openingHours": "Donnerstag 7-11Uhr",
+        "location": {
+            "street": "Hauptplatz",
+            "zip": 8940,
+            "city": "Liezen"
+        }
+    },
+
+    "102": {
+        "geoCoord": {
+            "lat": 47.605933,
+            "lng": 15.671371
+        },
+        "id": 102,
+        "category": 1,
+        "title": "Bauernmarkt Mürzzuschlag",
+        "openingHours": "Samstag 7:30-11:30Uhr",
+        "location": {
+            "street": "Hauptplatz",
+            "zip": 8680,
+            "city": "Mürzzuschlag"
+        }
+    }, 
+
+    "103": {
+        "geoCoord": {
+            "lat": 47.110568,
+            "lng": 14.171881
+        },
+        "id": 103,
+        "category": 1,
+        "title": "Bauernmarkt Murau",
+        "openingHours": "Freitag 9-12Uhr",
+        "location": {
+            "street": "Hauptplatz",
+            "zip": 8850,
+            "city": "Murau"
+        }
+    }, 
+
+    "104": {
+        "geoCoord": {
+            "lat": 46.707601,
+            "lng": 15.774192
+        },
+        "id": 104,
+        "category": 1,
+        "title": "Bauernmarkt Mureck",
+        "openingHours": "Samstag 7:30-10Uhr",
+        "location": {
+            "street": "Hauptplatz",
+            "zip": 8480,
+            "city": "Mureck"
+        }
+    }, 
+
+    "105": {
+        "geoCoord": {
+            "lat": 47.060459,
+            "lng": 15.609500
+        },
+        "id": 105,
+        "category": 1,
+        "title": "Bauernmarkt Nestelbach bei Graz",
+        "openingHours": "Samstag 9-12Uhr",
+        "location": {
+            "street": "Dorfplatz",
+            "zip": 8302,
+            "city": "Nestelbach bei Graz"
+        }
+    }, 
+
+    "106": {
+        "geoCoord": {
+            "lat": 47.460487,
+            "lng": 13.993341
+        },
+        "id": 106,
+        "category": 1,
+        "title": "Bauernmarkt Öblarn",
+        "openingHours": "Donnerstag 14-17Uhr",
+        "location": {
+            "street": "",
+            "zip": 8960,
+            "city": "Öblarn",
+            "description": "Vor der Freizeithalle"
+        }
+    }, 
+
+    "107": {
+        "geoCoord": {
+            "lat": 47.444459,
+            "lng": 16.065207
+        },
+        "id": 107,
+        "category": 1,
+        "title": "Bauernmarkt Pinggau",
+        "openingHours": "Samstag 8-12Uhr",
+        "location": {
+            "street": "Hauptplatz",
+            "zip": 8243,
+            "city": "Pinggau"
+        }
+    },
+
+    "108": {
+        "geoCoord": {
+            "lat": 47.031886,
+            "lng": 15.494345
+        },
+        "id": 108,
+        "category": 1,
+        "title": "Bauernmarkt Raaba-Grambach",
+        "openingHours": "Freitag 14-18Uhr",
+        "location": {
+            "street": "Josef-Krainer-Straße 16",
+            "zip": 8047,
+            "city": "Raaba-Grambach"
+        }
+    },
+
+    "109": {
+        "geoCoord": {
+            "lat": 47.420260,
+            "lng": 13.652861
+        },
+        "id": 109,
+        "category": 1,
+        "title": "Bauernmarkt Ramsau",
+        "openingHours": "jeden 2.Freitag 14-17Uhr (Juni-September)",
+        "location": {
+            "street": "Dorfplatz",
+            "zip": 8972,
+            "city": "Ramsau am Dachstein"
+        }
+    },
+
+    "110": {
+        "geoCoord": {
+            "lat": 47.312626,
+            "lng": 15.825205
+        },
+        "id": 110,
+        "category": 1,
+        "title": "Bauernmarkt Saifen-Boden Pöllau bei Hartberg",
+        "openingHours": "Freitag 13:30-18Uhr",
+        "location": {
+            "street": "Lagerhaus",
+            "zip": 8225,
+            "city": "Saifen-Boden"
+        }
+    },
+
+    "111": {
+        "geoCoord": {
+            "lat": 47.395022,
+            "lng": 15.041553
+        },
+        "id": 111,
+        "category": 1,
+        "title": "Bauernmarkt St. Peter-Freienstein",
+        "openingHours": "Freitag 14-17Uhr, von Juni-August 16-19Uhr",
+        "location": {
+            "street": "Schloss Friedhofen",
+            "zip": 8792,
+            "city": "St.Peter-Freienstein"
+        }
+    },
+
+    "112": {
+        "geoCoord": {
+            "lat": 46.894777,
+            "lng": 15.262778
+        },
+        "id": 112,
+        "category": 1,
+        "title": "Bauernmarkt Stainz",
+        "openingHours": "Samstag 7:30-12Uhr",
+        "location": {
+            "street": "Grazer Straße 1",
+            "zip": 8510,
+            "city": "Stainz"
+        }
+    },
+
+    "113": {
+        "geoCoord": {
+            "lat": 47.137664,
+            "lng": 15.419733
+        },
+        "id": 113,
+        "category": 1,
+        "title": "Bauernmarkt Stattegg",
+        "openingHours": "Samstag 7-11Uhr",
+        "location": {
+            "street": "Dorfplatz",
+            "zip": 8046,
+            "city": "Stattegg"
+        }
+    },
+
+    "114": {
+        "geoCoord": {
+            "lat": 47.243999,
+            "lng": 15.800247
+        },
+        "id": 114,
+        "category": 1,
+        "title": "Bauernmarkt Stubenberg am See - Ortszentrum",
+        "openingHours": "Freitag 14-17Uhr, im Juli-August 14-18Uhr",
+        "location": {
+            "street": "Zentrum",
+            "zip": 8223,
+            "city": "Stubenberg"
+        }
+    },
+
+    "115": {
+        "geoCoord": {
+            "lat": 47.234667,
+            "lng": 15.797834
+        },
+        "id": 115,
+        "category": 1,
+        "title": "Bauernmarkt Stubenberg am See - See",
+        "openingHours": "Juni: Wochenends, Juli/August bei Badebetrieb töglich 11-17Uhr",
+        "location": {
+            "street": "Freienberg 76",
+            "zip": 8223,
+            "city": "Stubenberg"
+        }
+    },
+
+    "116": {
+        "geoCoord": {
+            "lat": 47.000011,
+            "lng": 15.774082
+        },
+        "id": 116,
+        "category": 1,
+        "title": "Bauernmarkt Studenzen",
+        "openingHours": "Samstag 7:30-12Uhr",
+        "location": {
+            "street": "Lagerhaus Studenzen-Fladnitz",
+            "zip": 8322,
+            "city": "Studenzen"
+        }
+    },
+
+    "117": {
+        "geoCoord": {
+            "lat": 47.487112,
+            "lng": 14.486333
+        },
+        "id": 117,
+        "category": 1,
+        "title": "Bauernmarkt Trieben",
+        "openingHours": "Jeden 2.Freitag 8-12Uhr",
+        "location": {
+            "street": "Hauptplatz",
+            "zip": 8784,
+            "city": "Trieben"
+        }
+    },
+
+    "118": {
+        "geoCoord": {
+            "lat": 47.426912,
+            "lng": 15.005800
+        },
+        "id": 118,
+        "category": 1,
+        "title": "Bauernmarkt Trofaiach",
+        "openingHours": "Jeden 1.Samstag 7-12Uhr",
+        "location": {
+            "street": "Neuer Hauptplatz",
+            "zip": 8793,
+            "city": "Trofaiach"
+        }
+    },
+
+    "119": {
+        "geoCoord": {
+            "lat": 46.977886,
+            "lng": 16.058529
+        },
+        "id": 119,
+        "category": 1,
+        "title": "Bauernmarkt Unterlamm",
+        "openingHours": "Jeden Samstag 9-11Uhr",
+        "location": {
+            "street": "Gemeindeamt",
+            "zip": 8352,
+            "city": "Unterlamm"
+        }
+    },
+
+    "120": {
+        "geoCoord": {
+            "lat": 47.049574,
+            "lng": 15.149715
+        },
+        "id": 120,
+        "category": 1,
+        "title": "Bauernmarkt Voitsberg",
+        "openingHours": "Jeden Mittwoch 8-12Uhr",
+        "location": {
+            "street": "Michaeliplatz",
+            "zip": 8570,
+            "city": "Voitsberg"
+        }
+    },
+
+    "121": {
+        "geoCoord": {
+            "lat": 47.406195,
+            "lng": 15.886200
+        },
+        "id": 121,
+        "category": 1,
+        "title": "Bauernmarkt Vorau",
+        "openingHours": "Jeden 2.Freitag 14-17Uhr",
+        "location": {
+            "street": "vor dem Kaufhaus Nah & Frisch",
+            "zip": 8250,
+            "city": "Vorau"
+        }
+    },
+
+    "122": {
+        "geoCoord": {
+            "lat": 46.765921,
+            "lng": 15.557383
+        },
+        "id": 122,
+        "category": 1,
+        "title": "Bauernmarkt Wagna",
+        "openingHours": "Freitag 15-18Uhr",
+        "location": {
+            "street": "Marktplatz",
+            "zip": 8435,
+            "city": "Wagna"
+        }
+    },
+
+    "123": {
+        "geoCoord": {
+            "lat": 47.153866,
+            "lng": 14.739350
+        },
+        "id": 123,
+        "category": 1,
+        "title": "Bauernmarkt Weißkirchen",
+        "openingHours": "Samstag 8-12Uhr",
+        "location": {
+            "street": "Hauptplatz",
+            "zip": 8741,
+            "city": "Weißkirchen"
+        }
+    },
+
+    "124": {
+        "geoCoord": {
+            "lat": 47.213793,
+            "lng": 15.645849
+        },
+        "id": 124,
+        "category": 1,
+        "title": "Bauernmarkt Weiz-Krottendorf",
+        "openingHours": "jeden 2.Freitag 15-18Uhr",
+        "location": {
+            "street": "Krottendorf, Garten der Generationen",
+            "zip": 8160,
+            "city": "Weiz"
+        }
+    },
+
+    "125": {
+        "geoCoord": {
+            "lat": 47.552831,
+            "lng": 14.149242
+        },
+        "id": 125,
+        "category": 1,
+        "title": "Bauernmarkt Wörschach",
+        "openingHours": "jeden 1.Freitag im Monat 9-12Uhr",
+        "location": {
+            "street": "Herrengasse 27",
+            "zip": 8942,
+            "city": "Wörschach"
+        }
+    }
+}

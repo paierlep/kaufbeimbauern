@@ -1,0 +1,151 @@
+html,
+body,
+#root {
+    width: 100%;
+    height: 100%;
+}
+
+a {
+    color: black;
+}
+
+a.title-link {
+    color: white;
+    text-decoration: none;
+}
+
+h3 {
+    margin-bottom: 0;
+}
+
+#wrap {
+    display: flex;
+    flex-flow: column;
+    height: 100%;
+    width: 100%;
+}
+
+header {
+    background: #ddffdd;
+    width: calc(100%-30px);
+    flex: 0 1 auto;
+    display: flex;
+}
+
+header>div {
+    justify-content: space-between;
+}
+
+#main-content {
+    flex: 1 1 auto;
+    display: flex;
+    flex-flow: row nowrap;
+}
+
+ul#category {
+    padding: 0;
+    margin: 0;
+}
+
+#category li {
+    float: left;
+    list-style-type: none;
+    padding: 0 5px;
+    cursor: pointer;
+}
+
+.leaflet-container {
+    width: 100%;
+}
+
+#detail-view {
+    width: 500px;
+    max-width: 500px;
+    min-width: 320px;
+    background:white;
+    position: relative;
+}
+
+#detail-view .content-box {
+    padding: 15px;
+}
+
+.hidden {
+    display: none;
+}
+
+.contents div {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+}
+
+.contents span {
+    padding: 0 4px;
+    margin: 0 4px;
+    background: #dddddd;
+    border-radius: 4px;
+    white-space: nowrap;
+    margin-bottom: 10px;
+}
+
+#detail-view > button {
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    cursor: pointer;
+    color: #006A40;
+    background: white;
+    z-index: 1000;
+}
+
+.content-box {
+    display: flex;
+    flex-direction: column;
+}
+
+.content-box span {
+    padding: 4px;
+}
+
+.content-box .opening-hours {
+    padding: 0;
+}
+
+.leaflet-div-icon {
+    background: transparent;
+    border: none;
+}
+
+.machine-color {
+    color: #b88428;
+}
+
+.market-color {
+    color: #38537d;
+}
+
+.images-wrap {
+    background: #eee;
+}
+
+.each-slide {
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.each-slide img {
+    object-fit: contain;
+}
+
+.react-slideshow-container .default-nav:last-of-type {
+    position: relative;
+    right: 10px;
+}
+
+.react-slideshow-container .default-nav:first-of-type {
+    position: relative;
+    left: 10px;
+}
